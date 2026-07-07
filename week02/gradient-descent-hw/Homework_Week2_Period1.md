@@ -24,7 +24,7 @@ Sau khi hoàn thành bài này, sinh viên cần làm được các việc sau:
 
 ## Hình thức nộp bài
 
-Sinh viên chỉnh sửa trực tiếp file notebook `gradient_descent_hw.ipynb` và push lên fork repository của mình. Thêm tên và mã số sinh viên vào đầu file notebook.
+Sinh viên chỉnh sửa trực tiếp file notebook `gradient_descent_hw.ipynb` và push lên fork repository của mình. Thêm tên và mã số sinh viên vào đầu file notebogit push origin mainok.
 
 Yêu cầu khi nộp:
 
